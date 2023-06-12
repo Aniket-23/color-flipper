@@ -4,4 +4,7 @@ This is a webpage that flips and automatically generates colors randomly along w
 
 ## Subheading
 
-This webpage is a beta test version that only generates 3 colors specified in the app.js file
+Modified the webpage
+
+Now the hex link contains a link to an actual color flipper.
+It can generate any random color that is in the range of the hex code.
